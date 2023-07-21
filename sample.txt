@@ -1,8 +1,0 @@
-sample 1
-edit 1 
-edited in remote repository
-<<<<<<< Updated upstream
-conflict test in repo
-=======
-conflict test in local
->>>>>>> Stashed changes
